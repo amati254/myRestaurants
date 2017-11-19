@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/amati254/myRestaurants.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlearchive/androidpay-quickstart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\amati\AndroidStudioProjects" />
